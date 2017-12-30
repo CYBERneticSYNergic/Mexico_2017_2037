@@ -1,7 +1,7 @@
 # Mexico_2017_2037
 # Details of the parameters for the generation expansion planning in Mexico during the period 2017-2037
 ## December 2017
-## Rodrigo Palacios 
+## Rodrigo Palacios rodrigopalacios@itesm.mx
 ## Eduardo Valdes eduardo.valdesga@uanl.edu.mx
 
 The present data have been gathered from several sources with a strong concern to be as much as possible in agreement with real values to the Mexican situation. 
